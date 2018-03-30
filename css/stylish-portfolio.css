@@ -192,7 +192,7 @@ h6 {
     clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: rgba(168, 168, 168, 0.9);
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
@@ -209,33 +209,33 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #1D809F;
+  background-color: #b9b9b9;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
 footer.footer .social-link:hover {
-  background-color: #155d74;
+  background-color: #c0c0c0;
   text-decoration: none;
 }
 
 a {
-  color: #1D809F;
+  color: #dfcb95;
 }
 
 a:hover, a:focus, a:active {
-  color: #155d74;
+  color: #4a4a4a;
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: rgb(190, 190, 190) !important;
+  border-color: rgb(167, 167, 167) !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: #c0c0c0 !important;
+  border-color: #c0c0c0 !important;
 }
 
 .btn-secondary {
@@ -259,11 +259,11 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #c0c0c0 !important;
 }
 
 .text-primary {
-  color: #1D809F !important;
+  color: #c0c0c0 !important;
 }
 
 .text-secondary {
