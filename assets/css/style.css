@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #009a49;
+  background: #465b45;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #465b45;
+  background: #009a49;
   transition: background 0.2s ease-in-out;
 }
 
@@ -669,7 +669,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #148af9;
+  color: #009a49;
 }
 
 .portfolio .portfolio-wrap:hover::before {
